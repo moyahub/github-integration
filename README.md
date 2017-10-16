@@ -11,4 +11,4 @@ Do the following:
 // VCS | Import to Version Control | Share Project On GitHub
 //
 // NB! It's important to not send .idea directory and .iml file.
-// these are intellij IDEA config files.
+// these are intellij IDEA config files. 
